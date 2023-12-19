@@ -1,0 +1,87 @@
+@import url(../fonts/stylesheet.css);
+
+* {
+  font-family: "M PLUS 1";
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+ul,
+li,
+p,
+a {
+  text-decoration: none;
+  list-style: none;
+}
+a {
+  color: #3a3a3a;
+}
+.container-fluid {
+  padding: 0;
+}
+h1 {
+  font-size: 58px;
+  margin-bottom: 30px;
+  line-height: 76px;
+  color: #222d39;
+}
+h2 {
+  font-size: 40px;
+  margin-bottom: 25px;
+  line-height: 54px;
+  color: #222d39;
+}
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  line-height: 36px;
+  color: #222d39;
+}
+h5 {
+  font-size: 20px;
+  margin-bottom: 5px;
+  line-height: 28px;
+  color: #222d39;
+}
+p {
+  font-size: 18px;
+  margin-bottom: 0;
+  line-height: 28px;
+}
+
+.container-e {
+  max-width: 1320px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tx-w600 {
+  font-weight: 600;
+}
+.tx-w500 {
+  font-weight: 500;
+}
+.tx-w700 {
+  font-weight: 700;
+}
+
+.txt-14 {
+  font-size: 14px;
+}
+.txt-16 {
+  font-size: 16px;
+}
+.txt-18 {
+  font-size: 14px;
+}
+
+.txt-24 {
+  font-size: 24px;
+}
+

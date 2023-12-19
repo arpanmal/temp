@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'M PLUS 1';
+    src: url('MPLUS1-Black.eot');
+    src: url('MPLUS1-Black.eot?#iefix') format('embedded-opentype'),
+        url('MPLUS1-Black.woff2') format('woff2'),
+        url('MPLUS1-Black.woff') format('woff'),
+        url('MPLUS1-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'M PLUS 1';
+    src: url('MPLUS1-ExtraBold.eot');
+    src: url('MPLUS1-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('MPLUS1-ExtraBold.woff2') format('woff2'),
+        url('MPLUS1-ExtraBold.woff') format('woff'),
+        url('MPLUS1-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'M PLUS 1';
+    src: url('MPLUS1-Bold.eot');
+    src: url('MPLUS1-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MPLUS1-Bold.woff2') format('woff2'),
+        url('MPLUS1-Bold.woff') format('woff'),
+        url('MPLUS1-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'M PLUS 1';
+    src: url('MPLUS1-ExtraLight.eot');
+    src: url('MPLUS1-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('MPLUS1-ExtraLight.woff2') format('woff2'),
+        url('MPLUS1-ExtraLight.woff') format('woff'),
+        url('MPLUS1-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'M PLUS 1';
+    src: url('MPLUS1-Light.eot');
+    src: url('MPLUS1-Light.eot?#iefix') format('embedded-opentype'),
+        url('MPLUS1-Light.woff2') format('woff2'),
+        url('MPLUS1-Light.woff') format('woff'),
+        url('MPLUS1-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'M PLUS 1';
+    src: url('MPLUS1-Medium.eot');
+    src: url('MPLUS1-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MPLUS1-Medium.woff2') format('woff2'),
+        url('MPLUS1-Medium.woff') format('woff'),
+        url('MPLUS1-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'M PLUS 1';
+    src: url('MPLUS1-Regular.eot');
+    src: url('MPLUS1-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MPLUS1-Regular.woff2') format('woff2'),
+        url('MPLUS1-Regular.woff') format('woff'),
+        url('MPLUS1-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'M PLUS 1';
+    src: url('MPLUS1-SemiBold.eot');
+    src: url('MPLUS1-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('MPLUS1-SemiBold.woff2') format('woff2'),
+        url('MPLUS1-SemiBold.woff') format('woff'),
+        url('MPLUS1-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'M PLUS 1';
+    src: url('MPLUS1-Thin.eot');
+    src: url('MPLUS1-Thin.eot?#iefix') format('embedded-opentype'),
+        url('MPLUS1-Thin.woff2') format('woff2'),
+        url('MPLUS1-Thin.woff') format('woff'),
+        url('MPLUS1-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
